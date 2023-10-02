@@ -1,0 +1,16 @@
+{
+  "name": "mm",
+  "version": "1.0.0",
+  "description": "A mouse that keeps moving.",
+  "bin": {
+    "mm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aoki@aoki.dev",
+  "license": "MIT",
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.1.2"
+  }
+}
